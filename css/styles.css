@@ -615,11 +615,8 @@ footer {
   outline: transparent;*/
 }
 .form-subscribe-btn {
-  display: flex;
-  justify-content: center;
   min-width: 165px;
   height: 40px;
-  align-items: center;
   border-radius: 4px;
   background: var(--iris);
   border: none;
